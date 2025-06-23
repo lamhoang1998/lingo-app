@@ -1,0 +1,10 @@
+.flashCard {
+	display: flex;
+	flex-direction: column;
+}
+
+.flashCardNav {
+	list-style: none;
+	display: flex;
+	gap: 10px;
+}
